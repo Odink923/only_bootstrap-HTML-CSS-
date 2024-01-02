@@ -1,0 +1,409 @@
+.lolh{
+    height: 500px;
+}
+.rad{
+    border-radius: 20px;
+    border: 1px solid #000000;
+}
+.rad1marg{
+    border-radius: 200px;
+    display: flex;
+    justify-content: center;
+
+}
+.radhardwester{
+    border-radius: 200px;
+}
+.pad{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.margteacher{
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+}
+.padteacher{
+    padding-bottom: 100px;
+}
+.navback{
+    background-color: #d2694c;
+    padding: 15px  15px ;
+
+
+}
+
+.lolwidth{
+
+font-size: 30px;
+border-radius: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+@media (max-width: 361px) {
+
+    .lolwidth{
+
+        font-size: 20px;
+        border-radius: 20px;
+        padding-left: 40px;
+        padding-right: 40px;
+
+    }
+    
+
+}
+
+.fontlolnav{
+    font-size: 20px;
+}
+
+@media (min-width: 62em) {
+    .lolnon{
+
+    display: none;
+    }
+
+ .navback{
+     padding: 15px 110px 15px 110px;
+
+ }
+  .lolwidth{
+
+      padding-left: 40px;
+      padding-right: 40px;
+      font-size: 35px;
+      border-radius: 20px;
+  }
+  .fontlolnav{
+    font-size: 20px;
+}
+
+
+  
+
+}
+.lolhr{
+    margin-top: 50px;
+margin-bottom: 50px;
+
+}
+lolfontfamily{
+    font-family: Montserrat;
+}
+.lolcard{
+    display: flex;
+    justify-content: center;
+    
+}
+center{
+    display: none;
+}
+
+navlolleft{
+    margin-left: 110px;
+}
+navlolright{
+    margin-right: 110px;
+}
+.colortext{
+    color:  #d2694c;
+    font-size: 40px;
+}
+.videoflex{
+    display: flex;
+
+    font-size: 50px;
+
+    justify-content: center;
+}
+
+
+.divflexstart
+{
+    display: flex;
+
+}
+.btn-custom {
+    background-color: #d2694c;
+    color: #ffffff; /* білий колір тексту */
+}
+.btn-custom:hover {
+    /*box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);*/
+    color: #ffffff;
+    background-color: #0b8eab;
+}
+.hrlol{
+    background-color: #d2694c;
+}
+.border-custom{
+    border: 1px solid #d2694c;
+}
+.loldivstyle{
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.lolflex{
+    display: flex;
+    justify-content: center;
+
+
+
+}
+bgfoot{
+    background-color: #d2694c;
+}
+
+.loldescribe{
+    margin-top: 30px;
+}
+.lollimit{
+    text-align: left;
+    font-size: 20px;
+}
+.background-custom{
+    background-color: #d2694c;
+    color: #fff;
+}
+
+.lola{
+    color: black;
+    background-color: white;
+    border-radius: 50px;
+    padding-top: 1px;
+
+    padding-right: 4px;
+    padding-left: 4px;
+    margin-left: 5px;
+}
+.lolb{
+    color: black;
+    background-color: white;
+    border-radius: 50px;
+    padding-top: 1px;
+
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-left: 5px;
+}
+.lola:hover{
+    color: #9DF1DF;
+}
+
+.hamburger-menu-icon {
+
+    display: inline;
+    z-index: 1;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    text-align: right;
+
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+.hamburger-menu-icon1 {
+
+    display: inline;
+    z-index: 1;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    text-align: right;
+
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.hamburger-menu-icon3 {
+
+    display: inline;
+    z-index: 1;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    text-align: right;
+
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+}
+.hamburger-menu-icon4 {
+
+    display: inline;
+    z-index: 1;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    text-align: right;
+
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+}
+.hamburger-menu-icon5 {
+
+    display: inline;
+    z-index: 1;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    text-align: right;
+
+    color: #333;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.hamburger-menu-icon-bar {
+    display: flex;
+    width: 24px;
+    height: 3px;
+    margin: 5px  auto;
+    background-color: #333;
+    transition: transform 0.2s ease;
+}
+.hamburger-menu-icon-bar1 {
+    display: flex;
+    width: 24px;
+    height: 3px;
+    margin: 5px  auto;
+    background-color: #333;
+    transition: transform 0.2s ease;
+}
+
+.hamburger-menu-icon-bar3 {
+    display: flex;
+    width: 24px;
+    height: 3px;
+    margin: 5px  auto;
+    background-color: #333;
+    transition: transform 0.2s ease;
+}
+.hamburger-menu-icon-bar4 {
+    display: flex;
+    width: 24px;
+    height: 3px;
+    margin: 5px  auto;
+    background-color: #333;
+    transition: transform 0.2s ease;
+}
+
+.hamburger-menu-icon-bar5 {
+    display: flex;
+    width: 24px;
+    height: 3px;
+    margin: 5px  auto;
+    background-color: #333;
+    transition: transform 0.2s ease;
+}
+
+.hamburger-menu-icon-text {
+    margin-top: 20px;
+    display: flex;
+
+    justify-content: center;
+
+}
+
+.hamburger-menu-icon.active .hamburger-menu-icon-bar:nth-child(1) {
+    transform: translateY(6px) rotate(45deg);
+}
+
+.hamburger-menu-icon.active .hamburger-menu-icon-bar:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger-menu-icon.active .hamburger-menu-icon-bar:nth-child(3) {
+    transform: translateY(-10px) rotate(-45deg);
+}
+
+
+
+
+
+
+
+
+.hamburger-menu-icon1.active .hamburger-menu-icon-bar1:nth-child(1) {
+    transform: translateY(6px) rotate(45deg);
+}
+
+.hamburger-menu-icon1.active .hamburger-menu-icon-bar1:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger-menu-icon1.active .hamburger-menu-icon-bar1:nth-child(3) {
+    transform: translateY(-10px) rotate(-45deg);
+}
+
+
+
+
+.hamburger-menu-icon2.active .hamburger-menu-icon-bar2:nth-child(1) {
+    transform: translateY(6px) rotate(45deg);
+}
+
+.hamburger-menu-icon2.active .hamburger-menu-icon-bar2:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger-menu-icon2.active .hamburger-menu-icon-bar2:nth-child(3) {
+    transform: translateY(-10px) rotate(-45deg);
+}
+
+
+
+
+
+
+
+.hamburger-menu-icon3.active .hamburger-menu-icon-bar3:nth-child(1) {
+    transform: translateY(6px) rotate(45deg);
+}
+
+.hamburger-menu-icon3.active .hamburger-menu-icon-bar3:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger-menu-icon3.active .hamburger-menu-icon-bar3:nth-child(3) {
+    transform: translateY(-10px) rotate(-45deg);
+}
+
+
+
+
+
+
+.hamburger-menu-icon4.active .hamburger-menu-icon-bar4:nth-child(1) {
+    transform: translateY(6px) rotate(45deg);
+}
+
+.hamburger-menu-icon4.active .hamburger-menu-icon-bar4:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger-menu-icon4.active .hamburger-menu-icon-bar4:nth-child(3) {
+    transform: translateY(-10px) rotate(-45deg);
+}
+
+
+
+.hamburger-menu-icon5.active .hamburger-menu-icon-bar5:nth-child(1) {
+    transform: translateY(6px) rotate(45deg);
+}
+
+.hamburger-menu-icon5.active .hamburger-menu-icon-bar5:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger-menu-icon5.active .hamburger-menu-icon-bar5:nth-child(3) {
+    transform: translateY(-10px) rotate(-45deg);
+}
